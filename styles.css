@@ -82,7 +82,6 @@ button {
   position: fixed;
   right: 20%;
   bottom: 200px;
-  z-index: 1;
 }
 
 .circle-two {
@@ -93,7 +92,6 @@ button {
   position: fixed;
   bottom: 365px;
   right: 14%;
-  z-index: 2;
 }
 
 .circle-three {
@@ -104,5 +102,7 @@ button {
   position: fixed;
   right: 14%;
   top: 50%;
-  z-index: 3;
 }
+
+/* code from instructor */
+/* use relative positioning for the container and absolute to position the circles*/
