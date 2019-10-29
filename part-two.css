@@ -73,7 +73,7 @@ a {
   margin-top: 40px;
 }
 
-@media only screen and (min-width: 992px) and (min-width: 1200px) {
+@media only screen and (min-width: 1200px) {
   html {
     background-color: #f9fafc;
     font-family: "Lato";
